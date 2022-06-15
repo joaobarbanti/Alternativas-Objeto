@@ -1,4 +1,4 @@
-## 💰 Formar de criar um Objeto
+## 💰 Formas de criar um Objeto
 
 ### Aplicação que usei class, greetings,extends e constructor que basicamente são formar diferentes de criar e manipular um objeto. A aplicação em si não tem nada visual mas em seu código tem muito técnica e contéudo legal para você se basear 
 
